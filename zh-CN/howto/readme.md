@@ -30,7 +30,7 @@ name: 如何使用
 ### 范例
 
 ```
-http://print.moe/api?limit=3&page=1&days=10&desc=1&order=0&w_max=3500&w_min=1200
+http://print.moe/api?limit=1&page=1&days=10&desc=1&order=0&w_max=3500&w_min=1200
 ```
 ### 返回范例
 
