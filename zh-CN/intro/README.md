@@ -14,7 +14,11 @@ name: 这是什么
 	
 ## 如何实现		
 		
-我通过konachan提供的api将其所收录的所有图片信息保存进数据库，再通过Python编写接口并由Flask提供Web Api
+我们通过konachan官方提供的api将其所收录的所有图片信息保存进数据库
+
+再通过Python编写接口并由Flask提供Web Api接口
+
+一切接口调用我们不收取费用
 
 ## 声明
 :exclamation:
