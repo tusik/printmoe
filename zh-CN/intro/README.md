@@ -2,7 +2,10 @@
 name: 介绍		
 ---		
 
-# 这是什么		
+# 这是什么	
+
+![status](https://img.shields.io/badge/Print.Moe-Indevelopment-green.svg)
+![img2](https://img.shields.io/badge/current-Safe%20Only-green.svg)
 
 这是一个功能强大的konachan web Api
 
