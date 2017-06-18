@@ -8,7 +8,7 @@ name: 直接输出模式
 
 集成json模式下的所有参数（除了limit，因为只会输出一张壁纸）
 
-## 范例
+## 范例 
 
 ```
 http://print.moe/api.jpg
