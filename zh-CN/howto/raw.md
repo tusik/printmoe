@@ -11,11 +11,11 @@ name: 直接输出模式
 ## 范例 
 
 ```
-http://print.moe/api.jpg
+http://api.print.moe/api.jpg
 
-http://print.moe/api.jpg?order=3 
+http://api.print.moe/api.jpg?order=3 
 ```
 
-![壁纸](http://print.moe/api.jpg)
+![壁纸](http://api.print.moe/api.jpg)
 
-![壁纸](http://print.moe/api.jpg?order=3)
+![壁纸](http://api.print.moe/api.jpg?order=3)
