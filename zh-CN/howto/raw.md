@@ -19,3 +19,7 @@ http://api.print.moe/api.jpg?order=3
 ![壁纸](http://api.print.moe/api.jpg)
 
 ![壁纸](http://api.print.moe/api.jpg?order=3)
+
+## 没有符合条件的图片
+
+![404](http://api.print.moe/api.jpg?order=3&tag=efsefsedfeefeefdesfef)
