@@ -21,6 +21,7 @@ name: 如何使用
 |h_min|Int|最小高度|
 |order|String|排序方式|0|
 |desc|Int|是否降序|0|
+|tag|String|检索单词
 
 ### 详细参数解析
 
